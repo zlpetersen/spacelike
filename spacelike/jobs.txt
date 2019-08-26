@@ -1,0 +1,33 @@
+Asteroid Miner
+Gas Giant Miner
+Planetary Miner
+Trader
+Politician
+Explorer
+Wanderer
+Priest
+Pilot
+Engineer
+Doctor
+Mechanic
+Engineer
+Escort
+Navigator
+General
+Soldier
+Mercenary
+Xenobiologist
+Xenopathologist
+Chef
+Linguist
+Cop
+Entertainer
+Therapist
+Teacher
+Software Engineer
+Historian
+Electrician
+Plumber
+Janitor
+Farmer
+Captain
